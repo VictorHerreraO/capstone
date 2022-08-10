@@ -8,7 +8,3 @@ matplotlib
 black
 pylint
 mypy
-zipfile
-
-# APIs
-kaggle

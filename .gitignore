@@ -2,4 +2,3 @@ venv
 .vscode
 .mypy_cache
 .DS_Store
-/data

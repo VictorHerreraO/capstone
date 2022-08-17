@@ -1,4 +1,4 @@
-# Capstone project for YOUR NAME HERE
+# Capstone project for Victor Herrera
 
 ![Course Hero](images/hero.png)
 

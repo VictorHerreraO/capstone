@@ -4,6 +4,7 @@ numpy
 pandas
 matplotlib
 scikit-learn
+plotly
 
 # Development tools
 black
